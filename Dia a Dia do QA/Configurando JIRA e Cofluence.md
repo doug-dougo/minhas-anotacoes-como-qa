@@ -10,7 +10,7 @@
 - Criado pela Atlassian
 - Espaço de trabalho colaborativo para gestão de conhecimento
 - Auxilia junto ao JURA o gerenciamento de projetos
-[Link do projeto - COFLUENCE](https://doug-dougo.atlassian.net/wiki/spaces/~629eb4819248fe006911540c/overview?homepageId=229469)
+- [Link do projeto - COFLUENCE](https://doug-dougo.atlassian.net/wiki/spaces/~629eb4819248fe006911540c/overview?homepageId=229469)
 
 ## Jira
 
@@ -19,5 +19,5 @@
 - Obtenção de relatórios
 - Alta personalização
 - Integração com outras aplicações
-[Link do projeto - JIRA](https://doug-dougo.atlassian.net/jira/software/projects/SW/boards/2)
+- [Link do projeto - JIRA](https://doug-dougo.atlassian.net/jira/software/projects/SW/boards/2)
 
